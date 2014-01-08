@@ -1,5 +1,4 @@
-# Ben's test using MarkDown
-This is the pinteresting sample application for
-[*One Month Rails*] (http://onemonthrails.com)
+# Ben's first Ruby on Rails project
+I am building the Pinteresting application from [*One Month Rails*] (http://onemonthrails.com)
 
-by [*Ben Nash*] {http://www.aspenod.com}
+by [*Ben Nash*] (http://www.aspenod.com)
